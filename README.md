@@ -7,3 +7,11 @@
 ### What is dr34mCorp?
 
 - dr34mCorp is just an ideia, a place that we gonna execute our plans and projects, the group has a lot of devs that are passionate about getting their ideias out of their mind and transform into code, this is the place where all gona be displayed and used by dr34m members. It's a wide project that ment to always be growing and absorving new ideias from our members, right now the ideia for the mvp is contain a radio for dr34m members, a portfolio to show all of us and what each one likes, think or just wants to share something!
+
+### Stack
+
+- Typescript
+- Nest
+- Next
+- ChakraUI
+- Jest             
